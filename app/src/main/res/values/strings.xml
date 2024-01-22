@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Mobile Legend</string>
+    <string name="hero_name">Nama Hero</string>
+    <string name="role_hero">Role Hero</string>
+
+    <string name="my_name">Muhammad Januar Alfiansyah</string>
+    <string name="my_email">januaralfiansyah34@gmail.com</string>
+
+    <string name="email">Email :</string>
+    <string name="about">About</string>
+    <string name="storyofhero">Story of hero</string>
+    <string name="back">Back</string>
+
+    <string-array name="data_hero">
+        <item>Aamon</item>
+        <item>Alucard</item>
+        <item>Angela</item>
+        <item>Atlas</item>
+        <item>Claude</item>
+        <item>Balmond</item>
+        <item>Hanzo</item>
+        <item>Minotaur</item>
+        <item>Miya</item>
+        <item>Xavier</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>Assassins</item>
+        <item>Fighter</item>
+        <item>Mage</item>
+        <item>Marksman</item>
+        <item>Assassins</item>
+        <item>Fighter</item>
+        <item>Mage</item>
+        <item>Marksman</item>
+        <item>Assassins</item>
+        <item>Fighter</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/aamon</item>
+        <item>@drawable/alucard</item>
+        <item>@drawable/angela</item>
+        <item>@drawable/atlas</item>
+        <item>@drawable/claude</item>
+        <item>@drawable/haha</item>
+        <item>@drawable/hanzo</item>
+        <item>@drawable/minotaur</item>
+        <item>@drawable/miya</item>
+        <item>@drawable/xavier</item>
+    </string-array>
+
+    <string-array name="data_storyofhero">
+        <item> Ayah anak Duke Paxley menamainya Aamon, dan tak lama kemudian adik laki-lakinya lahir satu demi satu. \n
+            Namun sebagai putra tertua dan pewaris keluarga, Aamon telah menjalani disiplin yang lebih ketat sejak masa kecilnya. \n
+            Dia tidak pernah diizinkan untuk berjiwa bebas seperti saudaranya Gusion , dan sejak masa kanak-kanaknya, dia sibuk dengan studi dan tugas resmi sepanjang hari.
+        </item>
+        <item>Alucards father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. \n
+            Therefor, he hated darkness, joined the Monastery of Light, and swore to destroy all Demons. \n
+            But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.
+        </item>
+        <item> Angela merupakan salah satu hero diMobile Legends yang berperan sebagai supportyang cukup kuat menjaga komposisi tim saat war. \n
+            Salah satu keunggulan yang dimiliki Angela bisa mengeluarkan skill healing, efek slow, sampai memberikan defense untuk melindungi timnya melalui ultimate-nya.\n
+            Selain dapat menambah darah teman-teman satu tim, skill 1 Angela memberikanmagic damageyang cukup besar. Terlebih lagi, hero ini juga bisa mengontrol hero musuh dengan cara memberikan efek slow dan stun-nya yang cukup menyebalkan.
+        </item>
+        <item> Atlas adalah salah satu makhluk Laut Abysmal kuno , yang disegel di laut dalam oleh Yang Kuno.\n
+            Atlas menemukan Mecha yang dibangun oleh Golem Islandia di Laut Abysmal di masa lalu. \n
+            Dengan berintegrasi dengan Mecha, Atlas melarikan diri dari Laut Abysmal dan datang ke lautan di seluruh dunia untuk menyerap pengetahuan.\n
+            Ia menantikan suatu hari nanti ia mampu melanggar larangan tersebut, sehingga jenisnya sendiri bisa bebas.
+        </item>
+        <item> Claude dibesarkan diLos Pecados.Keadaan dalam hidupnya memaksanya menjadi pencuri yang luar biasa.\n
+            Tapi dia dimanfaatkan oleh Kane dan masuk penjara dan dirantai.Di penjara, ia bertemu Merlin, dewa pencuri, dan mewarisi jubahnya, berhasil melarikan diri dari penjara.\n
+            Setelah menyelesaikan perjanjian dengan Merlin, Claude kembali ke Los Pecados bersama rekan barunya Dexter, siap membalas dendam pada Kane.
+
+        </item>
+        <item> Balmond adalah pemimpin para Orc, memimpin pasukan Orc melawan invasi para Iblis. \n Selama pertempuran, dia mengonsumsi darah Blood Demon dan menjadi marah.\n
+            Hal ini membangkitkan minat Alice, jadi dia menandatangani kontrak dengan Balmond dengan syarat mengembalikan Stormeye Wasteland.\n
+            Balmond, dan pasukan Orcnya telah bertempur demi para Iblis.
+        </item>
+        <item> Hanzo merupakan salah satuhero Assassin yang tangguh di Mobile Legends, kemampuan terbaiknya adalah Ninjutsu yang memberikan serangan dari jarak jauh.\n
+             Hanzo hanya menyerang lawannya dengan kemampuan dari serangan jarak jauhnya. \n
+            Selain itu,hero ini memiliki dua modeuntuk dimainkan, yang membuatnya menjadi hero yang cukup ditakuti.
+        </item>
+        <item> Dahulu kala, pernah ada sebuah negara bagian bernama Minoa di Agelta Drylands.\n
+            Pangeran di negara bagian tersebut, Minotaur melukai ayahnya secara fatal karena marah, setelah itu dia mengasingkan dirinya ke Labirin Minoa karena malu dan menyesal.\n
+            Ketika dia keluar dari Labirin lagi, dia mendapati negaranya telah lama musnah, sanak saudaranya telah lama tiada.Dengan gigi siap, Monitor memulai jalan untuk memulihkan tanah airnya ke kejayaannya.
+        </item>
+        <item>Miya tinggal di Azrya bersama para Moon Elf lainnya. \n
+            Dia berdiri menjauhi perselisihan duniawi, dan tidak menyangka pasukan Iblis akan menyerang secara tiba-tiba.\n
+            Untuk melindungi tanah airnya, Miya, sebagai Pendeta Bulan, memimpin para Peri Bulan lainnya dalam pertahanan melawan musuh asing.
+        </item>
+        <item> Xavier adalah anggota Knights of Light yang dianugerahi gelar "Arbiter of Light".Setelah menekan Persekutuan Free Smiths milik Terizla , Xavier mengalami pergumulan batin dan keputusasaan selama satu dekade. \n
+            Dan ketika dia diperintahkan untuk menangkap dua "bidat",YindanMelissa, dia sekali lagi dipaksa untuk memilih antara tugas dan hati nurani… \n
+            Xavier dilahirkan dalam keluarga pedagang biasa di Kota Lumina . \n
+            Satu-satunya hal yang tidak biasa, jika ada, adalah ibunya — seorang Light Elf . Mungkin karena garis keturunan Elfnya , Xavier terlahir dengan kecerdasan luar biasa dan mata berwarna safir paling murni. \n
+            Ayah Xavier pernah menaruh harapan besar pada Xavier karena mengira Xavier bisa mendatangkan keuntungan besar bagi bisnisnya. Xavier, bagaimanapun, tidak menunjukkan ketertarikan pada bisnis keluarga dan bergabung dengan Biara Cahaya begitu dia dewasa. \n
+            Sebelum dia pergi, ibunya, yang juga percaya pada Raja Cahaya, memberinya jubah ajaib yang dibuat oleh para Elf.
+        </item>
+    </string-array>
+
+</resources>
